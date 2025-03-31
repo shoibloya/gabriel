@@ -141,17 +141,7 @@ export default function BlogOnePage() {
               celebrating its heritage in a modern way. By the end, you could almost taste the tea and the pride behind
               it.
             </p>
-            <p>
-              <strong className="font-bold">Mahira Travel Reel</strong> – Travel videos often show pretty landscapes,
-              but for a travel agency, the story behind the journey is what ignites wanderlust. In the Mahira Travel
-              reel we produced, we chose to focus on the experience of the traveler, not just the destinations. The
-              video follows a young woman exploring Singapore, capturing candid moments of wonder. Along the way, subtle cues
-              (like a seamless travel itinerary) highlight Mahira Travel's commitment
-              to caring service for Muslim-friendly tours. The narrative arc – initial excitement, and a heartfelt conclusion about memories made – mirrors the journey every traveler dreams
-              of. This storytelling approach reinforces Mahira Travel's brand identity as "your companion in creating
-              unforgettable journeys." Viewers come away not only remembering the stunning visuals, but also feeling the
-              company's passion for personalized travel experiences.
-            </p>
+            
             <p>
               <strong className="font-bold">Extra·Ordinary Stars Charity Concert</strong> – Even corporate event videos
               can have powerful narratives. When we covered the Extra·Ordinary Stars concert (an inclusivity-themed
