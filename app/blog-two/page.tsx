@@ -23,7 +23,7 @@ const SOPArticleDisplay = () => {
         </Button>
       </div>
       <div className="bg-yellow-200 text-yellow-900 font-bold p-4 rounded-xl text-lg text-center">
-        ⚠️ This is the blog outline for your consideration. The article will be finished on <span className="underline">4th April</span>.
+        ⚠️ This is the blog outline for your consideration. The article will be finished on <span className="underline">11th April</span>.
       </div>
       <h1 className="text-3xl font-bold">Legacy Planning in Singapore: What Happens to Your CPF When You Pass Away?</h1>
 
