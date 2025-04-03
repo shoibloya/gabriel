@@ -15,9 +15,9 @@ export default function Dashboard() {
   // Example KPI data
   const kpiData = [
     { title: "DR", value: 0, icon: <Activity className="h-4 w-4" /> },
-    { title: "UR", value: 6, icon: <Users className="h-4 w-4" /> },
-    { title: "Backlinks", value: 16, icon: <Link2 className="h-4 w-4" /> },
-    { title: "Ref. Domains", value: 15, icon: <Share2 className="h-4 w-4" /> },
+    { title: "UR", value: 0, icon: <Users className="h-4 w-4" /> },
+    { title: "Backlinks", value: 0, icon: <Link2 className="h-4 w-4" /> },
+    { title: "Ref. Domains", value: 0, icon: <Share2 className="h-4 w-4" /> },
     { title: "Organic Traffic", value: 0, icon: <Search className="h-4 w-4" /> },
   ]
 
@@ -55,7 +55,7 @@ export default function Dashboard() {
             animate={{ opacity: 1, y: 0 }}
             className="bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-3xl font-bold tracking-tight text-transparent md:text-4xl"
           >
-            Coco Pixels Dashboard
+            Inkcredible Solutions + Financial Guy Dashboard
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: -20 }}
